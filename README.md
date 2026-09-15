@@ -2,7 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,50:fecfef,100:667eea&height=220&section=header&text=Abhilasha%20Rai&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MCA%20AI%20%26%20Data%20Science%20Student&descAlignY=58&descSize=20" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Abhilasha%20Rai&fontSize=55&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science%20%7C%20Research&descAlignY=55&descAlign=50"/>
+</p>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=MCA+AI+%26+Data+Science+Student+%F0%9F%8C%B8;Exploring+AI+%26+Data+Science+%F0%9F%A4%96;Learning+Python+%26+Programming+%F0%9F%90%8D;Building+Projects+Step+by+Step+%E2%9C%A8;Growing+One+Step+at+a+Time+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
